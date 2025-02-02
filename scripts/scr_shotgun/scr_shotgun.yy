@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_shotgun",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Shotgun",
-    "path": "folders/Inventory/Items/Weapons/Guns/Shotgun.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_shotgun",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_shotgun",
+  "parent":{
+    "name":"Shotgun",
+    "path":"folders/Inventory/Items/Weapons/Guns/Shotgun.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

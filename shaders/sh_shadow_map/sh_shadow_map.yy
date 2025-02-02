@@ -1,10 +1,12 @@
 {
-  "resourceType": "GMShader",
-  "resourceVersion": "1.0",
-  "name": "sh_shadow_map",
-  "parent": {
-    "name": "Shaders",
-    "path": "folders/INTERNALS/Lighting/Shaders.yy",
+  "$GMShader":"",
+  "%Name":"sh_shadow_map",
+  "name":"sh_shadow_map",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/INTERNALS/Lighting/Shaders.yy",
   },
-  "type": 1,
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

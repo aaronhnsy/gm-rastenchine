@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "lighting_update_camera",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Misc",
-    "path": "folders/INTERNALS/Lighting/Misc.yy",
+  "$GMScript":"v1",
+  "%Name":"lighting_update_camera",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lighting_update_camera",
+  "parent":{
+    "name":"Misc",
+    "path":"folders/INTERNALS/Lighting/Misc.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

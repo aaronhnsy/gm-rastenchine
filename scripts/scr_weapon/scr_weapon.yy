@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_weapon",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Weapons",
-    "path": "folders/Inventory/Items/Weapons.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_weapon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapon",
+  "parent":{
+    "name":"Weapons",
+    "path":"folders/Inventory/Items/Weapons.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

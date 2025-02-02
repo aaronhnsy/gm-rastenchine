@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_ground",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Ground",
-    "path": "folders/Inventory/Items/Ground.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_ground",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ground",
+  "parent":{
+    "name":"Ground",
+    "path":"folders/Inventory/Items/Ground.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

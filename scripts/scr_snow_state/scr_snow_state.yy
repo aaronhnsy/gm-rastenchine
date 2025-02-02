@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_snow_state",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Snow State",
-    "path": "folders/INTERNALS/Snow State.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_snow_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_snow_state",
+  "parent":{
+    "name":"Snow State",
+    "path":"folders/INTERNALS/Snow State.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

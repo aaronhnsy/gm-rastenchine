@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "light_static_set_array",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Lights",
-    "path": "folders/INTERNALS/Lighting/Lights.yy",
+  "$GMScript":"v1",
+  "%Name":"light_static_set_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"light_static_set_array",
+  "parent":{
+    "name":"Lights",
+    "path":"folders/INTERNALS/Lighting/Lights.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

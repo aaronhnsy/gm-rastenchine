@@ -1,10 +1,12 @@
 {
-  "resourceType": "GMShader",
-  "resourceVersion": "1.0",
-  "name": "sh_blend_light",
-  "parent": {
-    "name": "Shaders",
-    "path": "folders/INTERNALS/Lighting/Shaders.yy",
+  "$GMShader":"",
+  "%Name":"sh_blend_light",
+  "name":"sh_blend_light",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/INTERNALS/Lighting/Shaders.yy",
   },
-  "type": 1,
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

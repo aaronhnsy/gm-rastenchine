@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "draw_health_bar",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "GUI",
-    "path": "folders/GUI.yy",
+  "$GMScript":"v1",
+  "%Name":"draw_health_bar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_health_bar",
+  "parent":{
+    "name":"GUI",
+    "path":"folders/GUI.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

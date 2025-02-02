@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "menu_macros",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Menu",
-    "path": "folders/Menu.yy",
+  "$GMScript":"v1",
+  "%Name":"menu_macros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"menu_macros",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Menu.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

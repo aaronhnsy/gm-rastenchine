@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_plank",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Plank",
-    "path": "folders/Inventory/Items/Weapons/Melee/Plank.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_plank",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_plank",
+  "parent":{
+    "name":"Plank",
+    "path":"folders/Inventory/Items/Weapons/Melee/Plank.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

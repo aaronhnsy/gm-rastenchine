@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_pistol",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Pistol",
-    "path": "folders/Inventory/Items/Weapons/Guns/Pistol.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_pistol",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_pistol",
+  "parent":{
+    "name":"Pistol",
+    "path":"folders/Inventory/Items/Weapons/Guns/Pistol.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

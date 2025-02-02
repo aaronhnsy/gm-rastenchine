@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_do_movement",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Scripts",
-    "path": "folders/Entities/Player/Scripts.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_do_movement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_do_movement",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Entities/Player/Scripts.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

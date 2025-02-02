@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "dialog_get_picture",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "dialog",
-    "path": "folders/Levels/NPC's/Scripts/dialog.yy",
+  "$GMScript":"v1",
+  "%Name":"dialog_get_picture",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dialog_get_picture",
+  "parent":{
+    "name":"dialog",
+    "path":"folders/Levels/NPC's/Scripts/dialog.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "dialog_enums",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "dialog",
-    "path": "folders/Levels/NPC's/Scripts/dialog.yy",
+  "$GMScript":"v1",
+  "%Name":"dialog_enums",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dialog_enums",
+  "parent":{
+    "name":"dialog",
+    "path":"folders/Levels/NPC's/Scripts/dialog.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

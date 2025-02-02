@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_rifle",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Rifle",
-    "path": "folders/Inventory/Items/Weapons/Guns/Rifle.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_rifle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_rifle",
+  "parent":{
+    "name":"Rifle",
+    "path":"folders/Inventory/Items/Weapons/Guns/Rifle.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

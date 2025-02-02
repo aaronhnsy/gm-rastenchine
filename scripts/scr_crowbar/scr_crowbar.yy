@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_crowbar",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Crowbar",
-    "path": "folders/Inventory/Items/Weapons/Melee/Crowbar.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_crowbar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_crowbar",
+  "parent":{
+    "name":"Crowbar",
+    "path":"folders/Inventory/Items/Weapons/Melee/Crowbar.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
